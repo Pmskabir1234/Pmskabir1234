@@ -100,30 +100,45 @@ saad = {
 
 <!-- Projects Section -->
 ## `> ls ./projects`
-
 <div align="center">
 
-<!-- Project 1 -->
-<a href="https://github.com/Pmskabir1234/FaceProof">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=FaceProof&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
-</a>
 
-<!-- Project 2 -->
-<a href="https://github.com/Pmskabir1234/KhetGenie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=KhetGenie&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Pmskabir1234/FaceProof">
+        <img src="https://skillicons.dev/icons?i=python,opencv,pytorch&theme=dark" /><br/>
+        <b>FaceProof</b><br/>
+        <sub>Deepfake detection</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Pmskabir1234/KhetGenie">
+        <img src="https://skillicons.dev/icons?i=typescript,javascript&theme=dark" /><br/>
+        <b>KhetGenie</b><br/>
+        <sub>A farmer-buyer marketplace</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Pmskabir1234/DaVis">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" /><br/>
+        <b>DaVis</b><br/>
+        <sub>Data Visualisation companion</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Pmskabir1234/Digit_Recognition">
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" /><br/>
+        <b>Digit Recognition </b><br/>
+        <sub>Digit Recognition using CNN</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
-
-<!-- Project 3 -->
-<a href="https://github.com/Pmskabir1234/DaVis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=DaVis&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
-</a>
-
-<!-- Project 4 -->
-<a href="https://github.com/Pmskabir1234/Digit_Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=Digit_Recognition&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
-</a>
+</div>
 
 </div>
 
@@ -132,9 +147,15 @@ saad = {
 <!-- Trophies -->
 ## `> achievements --unlocked`
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pmskabir1234&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</div>
+
+ <ul>
+   <li>SIH Internal 2025</li>
+   <li>HiggungFace NLP</li>
+   <li>Python Programming</li>
+   <li>2x Hackathon</li>
+ </ul>
+<br>
+Not a lot but have courage to learn new stuff
 
 ---
 

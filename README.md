@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Saad+%F0%9F%91%BE;ML+%2F+AI+Engineer;Building+Intelligent+Systems;Turning+Data+into+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Saad+Kabir;ML+%2F+AI+Engineer;Building+Intelligent+Systems;Turning+Data+into+Intelligence" alt="Typing SVG" />
 
 <!-- Neon Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />

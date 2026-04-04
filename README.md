@@ -79,11 +79,11 @@ saad = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pmskabir1234&show_icons=true&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&icon_color=FF0090&text_color=FFFFFF&hide_border=false&count_private=true" />
+
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pmskabir1234&theme=chartreuse-dark&background=0D0D0D&border=00F5FF&stroke=00F5FF&ring=FF0090&fire=FF6B00&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=FFFFFF" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmskabir1234&layout=compact&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&langs_count=8" />
+
 
 </div>
 
@@ -104,25 +104,25 @@ saad = {
 <div align="center">
 
 <!-- Project 1 -->
-<a href="https://github.com/Pmskabir1234/PROJECT_1_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=PROJECT_1_REPO&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
+<a href="https://github.com/Pmskabir1234/FaceProof">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=FaceProof&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
 </a>
 
 <!-- Project 2 -->
-<a href="https://github.com/Pmskabir1234/PROJECT_2_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=PROJECT_2_REPO&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
+<a href="https://github.com/Pmskabir1234/KhetGenie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=KhetGenie&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
 </a>
 
 <br/><br/>
 
 <!-- Project 3 -->
-<a href="https://github.com/Pmskabir1234/PROJECT_3_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=PROJECT_3_REPO&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
+<a href="https://github.com/Pmskabir1234/DaVis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=DaVis&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
 </a>
 
 <!-- Project 4 -->
-<a href="https://github.com/Pmskabir1234/PROJECT_4_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=PROJECT_4_REPO&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
+<a href="https://github.com/Pmskabir1234/Digit_Recognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pmskabir1234&repo=Digit_Recognition&theme=chartreuse-dark&bg_color=0D0D0D&border_color=00F5FF&title_color=00F5FF&text_color=FFFFFF&icon_color=FF0090" />
 </a>
 
 </div>
@@ -138,28 +138,13 @@ saad = {
 
 ---
 
-<!-- Snake Contribution Animation -->
-## `> ./snake_game --contributions`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pmskabir1234/Pmskabir1234/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pmskabir1234/Pmskabir1234/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Pmskabir1234/Pmskabir1234/output/github-snake.svg" />
-  </picture>
-</div>
-
-> ⚙️ **Setup snake animation:** In your `Pmskabir1234` profile repo → **Actions** tab → add the [platane/snk](https://github.com/platane/snk) workflow → enable it. The snake auto-generates from your contribution graph daily.
-
----
-
 <!-- Socials -->
 ## `> connect --with-me`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/saad-kabir-6a8921288/)
-[![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=twitter&logoColor=00F5FF)](https://twitter.com/YOUR_TWITTER)
+[![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=twitter&logoColor=00F5FF)](https://x.com/code_X_kabir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=firefox-browser&logoColor=FF0090)](https://pmskabir1234.github.io/MyPortfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF4444)](mailto:pmskabir123@gmail.com)
 

@@ -19,10 +19,12 @@
 
 ---
 
-<!-- About Me Section -->
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZiZWE4ZjYwNzM0ZGVlYzYzMTZmYmY5OGQ2ZDVlYTQzNWE4ODhkNiZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
 
 ## `> whoami`
+
+<!-- About Me Section -->
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZiZWE4ZjYwNzM0ZGVlYzYzMTZmYmY5OGQ2ZDVlYTQzNWE4ODhkNiZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ```python
 saad = {
@@ -156,11 +158,11 @@ saad = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/saad-kabir-6a8921288/)
 [![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=twitter&logoColor=00F5FF)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=firefox-browser&logoColor=FF0090)](https://YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF4444)](mailto:YOUR_EMAIL)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0D0D0D?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/YOUR_KAGGLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=firefox-browser&logoColor=FF0090)](https://pmskabir1234.github.io/MyPortfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF4444)](mailto:pmskabir123@gmail.com)
+
 
 </div>
 

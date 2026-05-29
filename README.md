@@ -152,7 +152,7 @@ saad = {
    <li>SIH Internal 2025</li>
    <li>HiggungFace NLP</li>
    <li>Python Programming</li>
-   <li>2x Hackathon</li>
+   <li>4x Hackathon</li>
  </ul>
 <br>
 Not a lot but have courage to learn new stuff
